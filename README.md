@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<video src="ECOBOT PITCH DECK.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="https://raw.githubusercontent.com/Mr-Patrick-James/echo_bot/main/ECOBOT%20PITCH%20DECK.mp4" autoplay loop muted playsinline width="100%"></video>
+
+[![EchoBot Demo](https://img.shields.io/badge/▶%20Watch%20Demo-EchoBot%20POV-red?style=for-the-badge)](https://github.com/Mr-Patrick-James/echo_bot/blob/main/ECOBOT%20PITCH%20DECK.mp4)
 
 > *EchoBot's point-of-view — autonomous trash detection and collection in action*
 
